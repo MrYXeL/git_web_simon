@@ -21,7 +21,7 @@ L'objectif de ce projet est d'apprendre à utiliser les différentes technologie
 ## Installation
 ```
 # Cloner le repo
-git clone https://github.com/MrYXeL/git_projet_web
+git clone https://github.com/MrYXeL/git_web_simon
 
 # Ouvrir la page html
 menu.html
